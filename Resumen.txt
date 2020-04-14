@@ -1,0 +1,14 @@
+Tecnologias que manejan de Frontend
+->HTML	: Lenguaje de marcado para hacer web site. Determina el contenido
+->CSS	: Lenguaje para definir la presentacion de documentos HTML. 
+->javaScrip: Es el lenguaje de programacion del navegador
+
+DOM:Modelo de documento que se carga en el navegador web y que representa el documento como un arbol de nodos.
+
+ETIQUETAS HTML	: Una etiqueta es usada para crear contenido. Arranca con <###>
+		 Termina con un </###>. Tambien algunas pocas se ven:
+		  <#### /> Se cierra en si misma.
+Ejemplos		  
+-> <p> Para parrafo </p>
+-> <img src="imagen, tambien una url de imagen"/>
+Ver mas en : http://html5doctor.com/
