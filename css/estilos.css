@@ -1,3 +1,18 @@
+/* 
+Reglas          :Es el conjunto de todas las partes del bloque de código (selectores, declarac
+Selectores      :Es la forma que usamos en CSS para apuntar hacia uno o varios elementos de HTML. Existen varios tipos de selectores.
+Declaraciones   :Es todo el conjunto de propiedades y valores que se encuentran dentro de las llaves del bloque de código de CSS
+Propiedades     :Son todas las diferentes formas que podemos usar para estilizar los elementos. Su funcionamiento está ligado a los valores
+Valores         :Son los valores que una propiedad puede tener.
+*/
+
+
 header {
     background: rebeccapurple;
+    color: red
 }
+
+/* Selectores desendente -> body header div nav ol a */
+/* Selector de clase -> .nombredelaclase */
+/* Selector por id utilizando #*/
+/* selector de etiqueta */
