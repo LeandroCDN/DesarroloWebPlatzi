@@ -130,8 +130,6 @@ figure {
     align-items: center;
     justify-content: space-between;
     height: 70px;
-
-
 }
 
 .menu {
@@ -166,8 +164,6 @@ figure {
     height: 200px;
     border: 1px solid red;
     flex-shrink: 0;
-    
-
 }
 
 .footer {
@@ -184,4 +180,48 @@ figure {
 
 .footer a {
     color: white    ;
+}
+
+.event-list {
+    display: flex;
+}
+.event-list-title {
+    margin-left: 20px;
+}
+
+.event {
+    border: 1px solid red;
+    margin: 10px;
+    width: 480px;
+    border-radius: 10px;
+    flex-shrink: 0;
+    overflow: hidden;
+    background: #f4fbf9;
+}
+.event img {
+    width: 480px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.event-detail {
+    margin: 20px 30px;
+    margin-top: -40px;
+    background-color:  white;
+    position: relative;
+    padding: 20px;
+    text-align: center;
+}
+
+.event-descrition {
+    text-align: left;
+}
+
+.event-url {
+    color: #056fff;
+    border: 1px solid;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+
 }
